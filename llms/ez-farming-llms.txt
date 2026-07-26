@@ -1,0 +1,15 @@
+# EZ Farming
+
+> EZ Farming is an agriculture investment and farm-ownership platform that lets individuals start or co-own a working farm without doing the day-to-day work. Members buy land in the EZFarming farm estate, join a farmer cooperative to co-own a farm, buy produce directly from managed farms, or invest in agricultural projects. Backed by 500 Global.
+
+Note: EZ Farming is a consumer-facing agriculture platform. As of this writing it publishes no developer/API surface (no OpenAPI, SDKs, or developer portal); this file was generated from the public marketing site.
+
+## Pages
+- [Home](https://ez-farming.com): Farm ownership opportunities overview.
+- [About](https://ez-farming.com/about): About EZ Farming and its mission.
+- [Own a Farm — How It Works](https://ez-farming.com/own-a-farm/how-it-works/): Co-owning a farm.
+- [Buy Produce — How It Works](https://ez-farming.com/buy-produce/how-it-works/): Buying produce from managed farms.
+- [Invest](https://ez-farming.com/invest/): Agricultural investment offering.
+- [Blog](https://ez-farming.com/blog/): Company blog.
+- [Contact](https://ez-farming.com/contacts/): Contact form and support.
+- [Privacy Policy](https://ez-farming.com/privacy-policy): Privacy policy.
